@@ -6,7 +6,7 @@
  * @subpackage Twenty_Twelve
  * @since Twenty Twelve 1.0
  */
-
+/* ndiasfnioa;jioeklwwwaf */
 get_header(); ?>
 
 	<div id="primary" class="site-content">
